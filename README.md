@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samdeep Potdukhe</h1>
+<h1 align="center">Hi 👋, I'm Sandeep Potdukhe</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-2511&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-2511" /> </p>
